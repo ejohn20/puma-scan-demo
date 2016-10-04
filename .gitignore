@@ -3,3 +3,14 @@
 ################################################################################
 
 /MvcTarget/MvcRuleTarget/bin
+/MvcTarget/MvcRuleTarget/obj/Debug
+/MvcTarget/packages
+/MyAwesomeAnalyzer/.vs/MyAwesomeAnalyzer/v14
+/MvcTarget/.vs
+/MyAwesomeAnalyzer/MyAwesomeAnalyzer/MyAwesomeAnalyzer/bin/Debug
+/MyAwesomeAnalyzer/MyAwesomeAnalyzer/MyAwesomeAnalyzer/obj/Debug
+/MyAwesomeAnalyzer/MyAwesomeAnalyzer/MyAwesomeAnalyzer.Test/bin/Debug
+/MyAwesomeAnalyzer/MyAwesomeAnalyzer/MyAwesomeAnalyzer.Vsix/bin/Debug
+/MyAwesomeAnalyzer/MyAwesomeAnalyzer/MyAwesomeAnalyzer.Test/obj/Debug
+/MyAwesomeAnalyzer/MyAwesomeAnalyzer/MyAwesomeAnalyzer.Vsix/obj/Debug
+/MyAwesomeAnalyzer/packages
